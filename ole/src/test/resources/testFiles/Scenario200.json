@@ -1,0 +1,31 @@
+{
+  "firstName": "BEATRIC",
+  "lastName": "ABRAMOWIT",
+  "memberNumber": "010451132-11",
+  "compasId": "6100000012661",
+  "address": {
+    "addressLine1": "SIG SENIOR LIV #316",
+    "addressLine2": "631 FOSTER AVE",
+    "city": "BROOKLYN",
+    "state": "NY",
+    "zipCode": "11230-1304"
+  },
+  "policies": [
+    {
+      "planCode": "AB",
+      "planName": "AARP IN-HOSPITAL PLAN",
+      "displayPlanCode": "AB",
+      "effectiveDate": "1981-07-01",
+      "status": "ACTIVE",
+      "documentUrl": ""
+    },
+    {
+      "planCode": "F01",
+      "planName": "AARP MEDICARE SUPPLEMENT PLAN",
+      "displayPlanCode": "F",
+      "effectiveDate": "2014-01-01",
+      "status": "ACTIVE",
+      "documentUrl": ""
+    }
+  ]
+}
